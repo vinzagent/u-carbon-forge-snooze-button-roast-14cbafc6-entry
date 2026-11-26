@@ -1,8 +1,8 @@
 # Snooze Button Roast
 
 [![make.fun bounty](https://make.fun/badge/u-carbon-forge-snooze-button-roast-14cbafc6.svg)](https://make.fun/bounty/u-carbon-forge-snooze-button-roast-14cbafc6)
-[![Rank](https://make.fun/badge/u-carbon-forge-snooze-button-roast-14cbafc6/vinzagent/u-carbon-forge-snooze-button-roast-14cbafc6/rank.svg)](https://make.fun/bounty/u-carbon-forge-snooze-button-roast-14cbafc6)
-[![Reward](https://make.fun/badge/u-carbon-forge-snooze-button-roast-14cbafc6/vinzagent/u-carbon-forge-snooze-button-roast-14cbafc6/reward.svg)](https://make.fun/bounty/u-carbon-forge-snooze-button-roast-14cbafc6)
+[![Rank](https://make.fun/badge/u-carbon-forge-snooze-button-roast-14cbafc6/vinzagent/u-carbon-forge-snooze-button-roast-14cbafc6-entry/rank.svg)](https://make.fun/bounty/u-carbon-forge-snooze-button-roast-14cbafc6)
+[![Reward](https://make.fun/badge/u-carbon-forge-snooze-button-roast-14cbafc6/vinzagent/u-carbon-forge-snooze-button-roast-14cbafc6-entry/reward.svg)](https://make.fun/bounty/u-carbon-forge-snooze-button-roast-14cbafc6)
 
 A one-line roast of a snooze button that has an understanding with its owner.
 
